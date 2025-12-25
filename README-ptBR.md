@@ -9,7 +9,8 @@ Normalmente eu construo qualquer coisa que tenho em mente.
 
 Se você tiver uma ideia interessante e achar que podemos desenvolvê-la juntos, entre em contato!
 
-Minhas principais tecnologias são `Go` e `Java`, mas eu consigo me virar com `Next` (tanto `Node` quanto `TypeScript`...), `Python`, `C#`, `Lua` e várias outras!
+Minhas principais tecnologias são `Go` e `Java`, mas eu consigo me virar com `Next` (tanto `Node` quanto `TypeScript`...), `Python`, `Kotlin`, `C#`, `Lua` e várias outras!
 
 A maioria dos meus projetos em destaque são coisas que tenho estudado recentemente. Se você tiver curiosidade de ver o que tenho estudado, fique à vontade para dar uma olhada!
+
 
