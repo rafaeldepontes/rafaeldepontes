@@ -9,7 +9,7 @@ I usually build whatever comes to mind.
 
 If you have any interesting ideas we could develop together, please get in touch.
 
-My main stack is `Go`, `Java`, and `C#`, but I can also work around with `React`, `TypeScript` and `Python`.
+My main stack is `Go` and `Java`, but I can also work around with `Next` (pure Node.Js or TypeScript...), `Python`, `C#`, `Lua` and several others.
 
 Most of my pinned projects are things I've been studying recently, so feel free to check out what I'm currently working on.
 
