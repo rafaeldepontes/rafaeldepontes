@@ -13,6 +13,8 @@ My main stack is `Go` and `Java`, but I can also work around with `Next` (pure N
 
 Most of my pinned projects are things I've been studying recently, so feel free to check out what I'm currently working on.
 
+But if you've been studying DSA or are simply interested in the subject, I have [this repository here](https://github.com/rafaeldepontes/data-gopher-algorithm) that might be worth checking out!
+
 <!--
 **rafaeldepontes/rafaeldepontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
