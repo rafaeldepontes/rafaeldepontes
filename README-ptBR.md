@@ -13,4 +13,6 @@ Minhas principais tecnologias são `Go` e `Java`, mas eu consigo me virar com `N
 
 A maioria dos meus projetos em destaque são coisas que tenho estudado recentemente. Se você tiver curiosidade de ver o que tenho estudado, fique à vontade para dar uma olhada!
 
+Mas se tiver interesse em DSA ou esteja estudando sobre, tenho [esse repositório](https://github.com/rafaeldepontes/data-gopher-algorithm) que talvez possa te interessar!
+
 
