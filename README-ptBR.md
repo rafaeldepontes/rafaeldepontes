@@ -9,11 +9,7 @@ Normalmente eu construo qualquer coisa que tenho em mente.
 
 Se você tiver uma ideia interessante e achar que podemos desenvolvê-la juntos, entre em contato!
 
-Minhas principais tecnologias são `Go` e `Java`, mas eu consigo me virar com `Next` (tanto `Node` quanto `TypeScript`...), `Python`, `Kotlin`, `C#`, `Lua` e várias outras!
+Minhas principais tecnologias são `Go`, `Rust` e `Java`, mas eu consigo me virar com `TypeScript`, `Python`, `Kotlin`, `C#`, `Lua` e várias outras!
 
-A maioria dos meus projetos em destaque são coisas que tenho estudado recentemente. Se você tiver curiosidade de ver o que tenho estudado, fique à vontade para dar uma olhada!
-
-Mas se tiver interesse em DSA ou está estudando sobre, tenho [esse repositório](https://github.com/rafaeldepontes/data-gopher-algorithm) que talvez possa te interessar!
-
-
+Meus projetos em destaque são ferramentas que eu construi para o meu uso no dia-a-dia, Se você tiver curiosidade, fique à vontade para dar uma olhada.
 

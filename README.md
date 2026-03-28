@@ -9,11 +9,9 @@ I usually build whatever comes to mind.
 
 If you have any interesting ideas we could develop together, please get in touch.
 
-My main stack is `Go` and `Java`, but I can also work around with `Next` (pure Node.Js or TypeScript...), `Python`, `Kotlin`, `C#`, `Lua` and several others.
+My main stack is `Go`, `Rust` and `Java`, but I can also work around with `TypeScript`, `Python`, `Kotlin`, `C#`, `Lua` and several others.
 
-Most of my pinned projects are things I've been studying recently, so feel free to check out what I'm currently working on.
-
-But if you've been studying DSA or are simply interested in the subject, I have [this repository here](https://github.com/rafaeldepontes/data-gopher-algorithm) that might be worth checking out!
+My pinned projects are tools I use in my day-to-day work, all built by me. If you're interested, feel free to check them out.
 
 <!--
 **rafaeldepontes/rafaeldepontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
