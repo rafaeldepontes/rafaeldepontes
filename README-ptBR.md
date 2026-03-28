@@ -11,5 +11,5 @@ Se você tiver uma ideia interessante e achar que podemos desenvolvê-la juntos,
 
 Minhas principais tecnologias são `Go`, `Rust` e `Java`, mas eu consigo me virar com `TypeScript`, `Python`, `Kotlin`, `C#`, `Lua` e várias outras!
 
-Meus projetos em destaque são ferramentas que eu construi para o meu uso no dia-a-dia, Se você tiver curiosidade, fique à vontade para dar uma olhada.
+Meus projetos em destaque são ferramentas que eu construi para o meu uso no dia-a-dia. Se você tiver curiosidade, fique à vontade para dar uma olhada.
 
